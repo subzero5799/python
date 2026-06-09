@@ -1,3 +1,6 @@
+# DATA ANALYSING SCRIPT
+# Author - Ajay Partap Singh Sekhon 
+# Start Date: 2nd June, 2026
 import pandas as pd
 import matplotlib.pyplot as plt
 df = pd.read_csv("sensor_log.csv")
